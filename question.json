@@ -1,0 +1,92 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "Which of the following numbers is written as 'Four and five tenths'?",
+      "options": ["4.05", "40.5", "4.5", "4.005"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q2",
+      "question": "Jack discovered a locked box with a riddle: 'What is 1 more than the greatest 6-digit number?'",
+      "options": ["Smallest 7-digit number", "Greatest 7-digit number", "Greatest 6-digit number", "Smallest 6-digit number"],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q3",
+      "question": "Emma found a note that said: If in the number 25468, the digits at thousands place and tens place are interchanged, then the original number is _____ the new number.",
+      "options": ["Greater than", "Equal to", "Smaller than", "Cannot be determined"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q4",
+      "question": "Which of the following numbers is incorrectly written in words?",
+      "options": ["12.075 → 'Twelve and seventy-five thousandths'", "405.0064 → 'Four hundred five and sixty-four ten-thousandths'", "9.0002 → 'Nine and two ten-thousandths'", "300.21 → 'Three hundred twenty-one hundredths'"],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q5",
+      "question": "They found a scroll in which A, B, C and D are 5-digit numbers, each having the digit 9 only once and in the place shown. None of the digits are known.<br><img src='./images/3.png' width='28%'><br> Which of the following statements is CORRECT about A, B, C and D?",
+      "options": ["D is the smallest of the four numbers", "A is larger than C", "B is the largest of the four numbers", "C is the smallest of the four numbers"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q6",
+      "question": "Jack found a locked chest with the number written on it.<br><img src='./images/4.png' width='40%'><br> What is the sum of the place value of 8 and the face value of 3?",
+      "options": ["8,746", "8,753", "8,743", "8,748"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q7",
+      "question": "Which number should not be placed in the box to have the numbers in order from the greatest to the least?<br><img src='./images/5.png' width='65%'>",
+      "options": ["2431", "3241", "5611", "5946"],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q8",
+      "question": "Which of the following is the correct word form of 700.0206?",
+      "options": ["Seven hundred two hundred six thousandths", "Seven hundred and two hundred six thousandths", "Seven hundred and two hundred six ten-thousandths", "Seven hundred and two hundred six hundred-thousandths"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q9",
+      "question": "Emma spotted another puzzle asking her to sort large numbers in ascending order.<br><img src='./images/7.png' width='65%'><br> Which option is correct?",
+      "options": ["123,456; 234,567; 456,789; 678,901", "678,901; 456,789; 234,567; 123,456", "456,789; 678,901; 123,456; 234,567", "234,567; 123,456; 678,901; 456,789"],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q10",
+      "question": "Jack found a dial that required arranging numbers in descending order.<br><img src='./images/8.png' width='65%'><br> Which choice is correct?",
+      "options": ["234,567; 345,678; 567,890; 678,901", "567,890; 678,901; 345,678; 234,567", "678,901; 567,890; 345,678; 234,567", "345,678; 234,567; 678,901; 567,890"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q11",
+      "question": "Emma needed to enter the greatest 4-digit number, where all digits were different, and 5 was in the hundreds place. What number should she enter?",
+      "options": ["9599", "9876", "9587", "9857"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q12",
+      "question": "Which decimal corresponds to 'Seven and three hundred four ten-thousandths'?",
+      "options": ["7.34", "7.304", "7.0304", "7.0034"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q13",
+      "question": "Jack has four number cards:<br><img src='./images/9.png' width='50%'><br> He wants to form the largest 3-digit number by using any three of the given digits exactly once. Which number should he choose?",
+      "options": ["985", "951", "958", "981"],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q14",
+      "question": "How do you write 405.078 in word form?",
+      "options": ["Four hundred five and seventy-eight hundredths", "Four hundred five and seventy-eight thousandths", "Four hundred five and seventy-eight tenths", "Forty-five and seventy-eight thousandths"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q15",
+      "question": "Emma has five number cards:<br><img src='./images/10.png' width='50%'><br> She wants to arrange all the cards only once to form the smallest 5-digit number possible. Which number should she create?",
+      "options": ["64320", "40362", "40236", "20346"],
+      "correct": 3
+  }
+]
