@@ -32,7 +32,7 @@
   {
       "questionNo": "Q6",
       "question": "Jack found a locked chest with the number written on it.<br><img src='./images/4.png' width='40%'><br> What is the sum of the place value of 8 and the face value of 3?",
-      "options": ["8,746", "8,753", "8,743", "8,748"],
+      "options": ["8,746", "8,003", "8,743", "8,748"],
       "correct": 1
   },
   {
